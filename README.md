@@ -6,4 +6,4 @@ Level 2: The number of cards increases, making the game more challenging. The pl
 Level 3: The hardest level with a unique mechanic. Every incorrect match triggers an automatic shuffle of all cards. This feature is implemented using Java's Thread system to create a dynamic and unpredictable gameplay experience. The player still has a fixed number of flips to complete the level.
 The objective is to match all the cards without exceeding the given flip limit in each level. The game is built using Java's Swing library and multithreading (Thread) management to ensure a smooth and engaging user experience.
                                                
- 🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏
+ 🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏🃏
